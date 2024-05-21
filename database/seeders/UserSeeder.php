@@ -28,5 +28,31 @@ class UserSeeder extends Seeder
             'level' => 'admin',
             'password' => Hash::make('admin@test-jaya.id'),
         ]);
+        DB::table('users')->insert([
+            'nama_lengkap' => 'user',
+            'email' => 'user@test-jaya.id',
+            'gelar_depan' => 'q.',
+            'gelar_belakang' => 'we',
+            'nip'=> 112233445566778899,
+            'nik'=> 1122334455667788,
+            'jenis_kelamin'=> 'laki-laki',
+            'alamat'=> 'lhoknga',
+            'photo'=> '/img/foto.jpg',
+            'level' => 'user',
+            'password' => Hash::make('user@test-jaya.id'),
+        ]);
+        DB::table('users')->insert([
+            'nama_lengkap' => 'sabirin',
+            'email' => 'sabirin@test-jaya.id',
+            'gelar_depan' => 'h.',
+            'gelar_belakang' => 'jk',
+            'nip'=> 112233445566778899,
+            'nik'=> 1122334455667788,
+            'jenis_kelamin'=> 'laki-laki',
+            'alamat'=> 'lamno',
+            'photo'=> '/img/foto.jpg',
+            'level' => 'user',
+            'password' => Hash::make('sabirin@test-jaya.id'),
+        ]);
     }
 }
