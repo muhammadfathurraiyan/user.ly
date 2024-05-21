@@ -4,7 +4,7 @@ Ini merupakan repository project hasil test online saya.
 
 ## TL;DR
 
-Project ini tidak saya buat menggunakan framework Codeigniter 4 melainkan dengan menggunakan framework Laravel 11 + Inertia.js (Laravel & React). Mengapa? Saya sebelumnya belum pernah menggunakan framework Codeigniter 4, bagi saya dalam waktu 2 hari untuk menyelesaikan project menggunakan framework Codeigniter yang baru bagi saya, saya kurang cukup. Karena dalam 2 hari harus ada hasil yang sya berikan, saya mengunaakan alternatif lain yaitu menggunakan framework Laravel untuk mengerjakan soal test. Apabila diterima maka bisa lanjut ke bagian instalasi, kalau tidak diterima it's ok for me :) terimakasih...
+Project ini tidak saya buat menggunakan framework Codeigniter 4 melainkan dengan menggunakan framework Laravel 11 + Inertia.js (Laravel & React). Mengapa? Saya sebelumnya belum pernah menggunakan framework Codeigniter 4, bagi saya dalam waktu 2 hari untuk menyelesaikan project menggunakan framework Codeigniter yang baru bagi saya, saya rasa kurang cukup. Karena dalam 2 hari harus ada hasil yang saya selesaikan, saya mengunaakan alternatif lain yaitu menggunakan framework Laravel untuk mengerjakan soal test. Apabila diterima maka bisa lanjut ke bagian instalasi, jika tidak diterima setidaknya ada hasil yang saya kirimkan :) terimakasih...
 
 ## Instalasi
 
